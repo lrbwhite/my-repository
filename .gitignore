@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 日志文件
+*.log
+
+# 环境变量密钥文件
+.env
