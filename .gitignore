@@ -228,3 +228,19 @@ __marimo__/
 venv/
 env/
 myenv/
+
+# -------- Java 新增部分 --------
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.logs
+hs_err_pid*
+
+# VSCode / Codespaces
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.DS_Store
